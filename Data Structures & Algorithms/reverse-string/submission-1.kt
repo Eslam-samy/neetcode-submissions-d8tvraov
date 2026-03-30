@@ -8,7 +8,5 @@ class Solution {
     for (i in temp.indices){
         s[i] = temp[i]
     }
-    print(temp)
-    print(s)
 }
 }
